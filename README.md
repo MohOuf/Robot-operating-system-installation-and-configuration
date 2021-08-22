@@ -1,4 +1,4 @@
-# Robot-operating-system-installation-and-configuration
+# Robot-ARM-operating-system-installation-and-configuration
 Welcome to the Robotics-Arm- wiki!
 # Ros and Ubuntu installation 
 ## 1. downloading VirtualBox 
